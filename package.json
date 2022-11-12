@@ -1,0 +1,27 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Simple restaurant page rendered through JS. Bundled by webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "dev": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yungnegev/restaurant-page.git"
+  },
+  "author": "yung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yungnegev/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/yungnegev/restaurant-page#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
