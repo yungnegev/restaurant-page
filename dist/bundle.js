@@ -927,7 +927,7 @@ const navBar = () => {
   \***************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "default-marker.jpg";
+module.exports = __webpack_require__.p + "assets/default-marker.jpg";
 
 /***/ }),
 
@@ -937,7 +937,7 @@ module.exports = __webpack_require__.p + "default-marker.jpg";
   \*****************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "fish.png";
+module.exports = __webpack_require__.p + "assets/fish.png";
 
 /***/ }),
 
@@ -947,7 +947,7 @@ module.exports = __webpack_require__.p + "fish.png";
   \*********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "location.png";
+module.exports = __webpack_require__.p + "assets/location.png";
 
 /***/ }),
 
@@ -957,7 +957,7 @@ module.exports = __webpack_require__.p + "location.png";
   \*****************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "meat.png";
+module.exports = __webpack_require__.p + "assets/meat.png";
 
 /***/ }),
 
@@ -967,7 +967,7 @@ module.exports = __webpack_require__.p + "meat.png";
   \******************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "pizza.png";
+module.exports = __webpack_require__.p + "assets/pizza.png";
 
 /***/ }),
 
@@ -977,7 +977,7 @@ module.exports = __webpack_require__.p + "pizza.png";
   \******************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "ramen.png";
+module.exports = __webpack_require__.p + "assets/ramen.png";
 
 /***/ }),
 
@@ -987,7 +987,7 @@ module.exports = __webpack_require__.p + "ramen.png";
   \****************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "restaurant-menu.png";
+module.exports = __webpack_require__.p + "assets/restaurant-menu.png";
 
 /***/ }),
 
@@ -997,7 +997,7 @@ module.exports = __webpack_require__.p + "restaurant-menu.png";
   \***********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "restaurant.png";
+module.exports = __webpack_require__.p + "assets/restaurant.png";
 
 /***/ }),
 
@@ -1007,7 +1007,7 @@ module.exports = __webpack_require__.p + "restaurant.png";
   \******************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "stars.png";
+module.exports = __webpack_require__.p + "assets/stars.png";
 
 /***/ }),
 
@@ -1017,7 +1017,7 @@ module.exports = __webpack_require__.p + "stars.png";
   \******************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "sushi.png";
+module.exports = __webpack_require__.p + "assets/sushi.png";
 
 /***/ })
 
