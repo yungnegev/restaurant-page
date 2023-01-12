@@ -2,7 +2,7 @@
 
 # Restaurant Page
 
-This is a restaurant page written in JS, CSS and HTML, the objective of this project is learnign how to write single page applications using only Javascript
+This is a restaurant page written in JS, CSS and HTML, the objective of this project is learning how to write single page applications using only Javascript
 to render all the necessary DOM elements and display different 'pages' when the user navigates to them. 
 
 ## Key takeaways
